@@ -65,7 +65,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>Cloud-Team-Demo</finalName>
+		<finalName>cloud-team-demo</finalName>
 	</build>
 
 </project>
